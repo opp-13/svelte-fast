@@ -1,4 +1,4 @@
-# Fullstack Project: Svelte + FastAPI
+# Svelte + FastAPI
 
 ## [[ frontend - svelte ]]
 
